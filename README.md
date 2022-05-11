@@ -7,7 +7,7 @@ this code repository has two components, a node server API and an iOS app.
 
     launch XCode project file located in dir zzonawaviOS
 
-        This project is configured to run on localhost. API endpoint is referenced in the following locations
+        This project is configured to run on localhost 3000. API endpoint is referenced in the following locations
         should you need to reconfigure.
             Login.swift => Line 81
             CreateAccount.swift => Line 76
